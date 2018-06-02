@@ -12,5 +12,4 @@ requires on OsX
 
     brew install pkg-config libxmlsec1
 
-
-.. _EasyRSA:https://github.com/OpenVPN/easy-rsa
+.. _EasyRSA: https://github.com/OpenVPN/easy-rsa
